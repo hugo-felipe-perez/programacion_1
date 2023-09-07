@@ -9,6 +9,22 @@ public class Estudiante {
     private double nota2;
     private double nota3;
 
+    //constructor
+
+    public Estudiante (){
+
+    }
+
+    public Estudiante (String nombre,String correo,int semestre,int edad, double nota1,double nota2,double nota3){
+        this.nombre = nombre;
+        this.correo = correo;
+        this.semestre = semestre;
+        this.edad = edad;
+        this.nota1 = nota1;
+        this.nota2 = nota2;
+        this.nota3 = nota3;
+    }
+
     public String getNombre(){
         return nombre;
     }
@@ -50,5 +66,15 @@ public class Estudiante {
     }
     public void setNota3 (double nota3){
         this.nota3 = nota3;
+    }
+    // funcion para calcular la definitiva de un estudiante
+    public double calcularDefinitivaEstudiantes(Estudiante estudiante) {
+        double nota1 = estudiante.getNota1();
+        double nota2 = estudiante.getNota2();
+        double nota3 = estudiante.getNota3();
+        double definitiva = (nota1 + nota2 + nota3) / 3;
+        System.out.println("La definitiva del estudiante 1 es: " + definitiva);
+        return definitiva;
+
     }
 }
