@@ -33,8 +33,6 @@ public class Docente {
         this.correo = correo;
     }
 
-
-
     //funcion para calcular el promedio del curso
     public void calcularPromedioCurso(double definitivaEstudiante1, double definitivaEstudiante2,
                                       double definitivaEstudiante3) {

@@ -47,7 +47,7 @@ public class Estudiante {
         return edad;
     }
     public void setEdad (int edad){
-        this.edad =edad;
+        this.edad = edad;
     }
     public double getNota1 (){
         return nota1;
@@ -68,13 +68,18 @@ public class Estudiante {
         this.nota3 = nota3;
     }
     // funcion para calcular la definitiva de un estudiante
-    public double calcularDefinitivaEstudiantes(Estudiante estudiante) {
+    public void calcularDefinitivaEstudiante1(Estudiante estudiante1) {
+        double nota1 = estudiante1.getNota1();
+        double nota2 = estudiante1.getNota2();
+        double nota3 = estudiante1.getNota3();
+        double definitiva = (nota1 + nota2 + nota3) / 3;
+        System.out.println("La definitiva del estudiante 1 es: " + definitiva);
+    }
+    public double calcularDefinitivaEstudiantes (Estudiante estudiante){
         double nota1 = estudiante.getNota1();
         double nota2 = estudiante.getNota2();
         double nota3 = estudiante.getNota3();
         double definitiva = (nota1 + nota2 + nota3) / 3;
-        System.out.println("La definitiva del estudiante 1 es: " + definitiva);
         return definitiva;
-
     }
 }

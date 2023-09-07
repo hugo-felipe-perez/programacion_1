@@ -17,6 +17,7 @@ public class Main {
         Docente docente1 = new Docente ("hugo",28,"hgjdjg");
         Docente docente2 = new Docente();
         Estudiante estudiante5 = new Estudiante();
+        estudiante1.calcularDefinitivaEstudiante1(estudiante1);
         double definitivaEstudiante1 = estudiante1.calcularDefinitivaEstudiantes(estudiante1);
         double definitivaEstudiante2 = estudiante2.calcularDefinitivaEstudiantes(estudiante2);
         double definitivaEstudiante3 = estudiante3.calcularDefinitivaEstudiantes(estudiante3);
