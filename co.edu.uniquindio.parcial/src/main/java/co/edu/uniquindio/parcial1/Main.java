@@ -1,4 +1,4 @@
-package co.edu.uniquindio.tallerPractica;
+package co.edu.uniquindio.parcial1;
 
 public class Main {
     public static void main(String[] args) {
