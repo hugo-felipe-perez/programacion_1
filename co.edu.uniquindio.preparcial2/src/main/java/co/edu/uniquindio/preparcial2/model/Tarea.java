@@ -1,4 +1,4 @@
-package co.edu.uniquindio.preparcial2.ejercicio2;
+package co.edu.uniquindio.preparcial2.model;
 
 import java.util.Date;
 
@@ -8,6 +8,8 @@ public class Tarea {
     private Date fechaFin;
     private double duracionTarea;
     private String descripcion;
+    private Prioridad prioridad;
+    private Empleado empleadoAsociado;
     FincaUQ ownedByFincaUQ;
     public Tarea() {
     }
@@ -59,7 +61,21 @@ public class Tarea {
         this.descripcion = descripcion;
     }
 
+    public Prioridad getPrioridad() {
+        return prioridad;
+    }
 
+    public void setPrioridad(Prioridad prioridad) {
+        this.prioridad = prioridad;
+    }
+
+    public Empleado getEmpleadoAsociado() {
+        return empleadoAsociado;
+    }
+
+    public void setEmpleadoAsociado(Empleado empleadoAsociado) {
+        this.empleadoAsociado = empleadoAsociado;
+    }
 
     @Override
     public String toString() {

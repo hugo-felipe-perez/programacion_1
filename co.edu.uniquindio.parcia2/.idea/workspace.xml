@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f82eb780-a52c-4bee-8d01-cdce0b28852c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/FincaUQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/FincaUQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/Jornalero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/Jornalero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/MainEjercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/Recolector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/Recolector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/ejercicio2/Tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcial2/model/Tarea.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2XEYgRE9wzwwqnBAgHhq5AlQ4kb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev-programacion1",
+    "last_opened_file_path": "C:/Users/hugof/Documents/UNIVERSIDAD/SEGUNDO SEMESTRE - PROGRAMACION 1/prestamo_uq_pro1/co.edu.uniquindio.prestamo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82eb780-a52c-4bee-8d01-cdce0b28852c" name="Changes" comment="" />
+      <created>1698195825115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698195825115</updated>
+      <workItem from="1698195826147" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
